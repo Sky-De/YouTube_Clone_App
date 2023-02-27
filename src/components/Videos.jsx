@@ -7,7 +7,7 @@ const Videos = ({ videos }) => {
     <Stack direction="row" flexWrap="wrap" justifyContent="start" gap={2}>
       {videos && videos.map((item,index) => (
         <Box key={index}>
-          {item.id.channelId && <ChannelCard channelDetail={item}/>}
+          {item.id.channelId && <ChannelCard channelDetail={item} bd="solid"/>}
           {item.id.videoId && <VideoCard video={item}/>}
         </Box>
       ))}
