@@ -17,7 +17,7 @@ const Feed = () => {
 
   return (
     <Stack sx={{flexDirection:{ sx:"column", md: "row"}}}>
-      <Box sx={{ height: { sx: "auto", md:"91vh"}, border: "1px solid #3d3d3d", px: { sx: 0, md: 2 }}} >
+      <Box sx={{ height: { sx: "auto", md:"91vh"}, borderRight: "1px solid #3d3d3d", px: { sx: 0, md: 2 }}} >
         <SideBar selectedCategory={selectedCategory} setSelectedCategory={setSelectedCategory}/>
         <Typography className="copyright" variant="body2" sx={{
           mt: 1.5,
@@ -25,7 +25,7 @@ const Feed = () => {
         }}>Copyright 2023 SkyDe App</Typography>
       </Box>
 
-      <Box p={3} sx={{ overflowY: 'auto', height: "85vh", flex: 2, border: "2px solid red"}}>
+      <Box p={3} sx={{ overflowY: 'auto', height: "85vh", flex: 2}}>
         <Typography
          variant="h4"
          fontWeight="bold"

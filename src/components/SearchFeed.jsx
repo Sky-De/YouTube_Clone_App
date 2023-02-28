@@ -16,7 +16,7 @@ const SearchFeed = () => {
     }, [searchTerm]);
 
   return (
-     <Box p={3} sx={{ overflowY: 'auto', height: "85vh", flex: 2, border: "2px solid red"}}>
+     <Box p={3} sx={{ overflowY: 'auto', height: "85vh", flex: 2}}>
           <Typography
            variant="h4"
            fontWeight="bold"
