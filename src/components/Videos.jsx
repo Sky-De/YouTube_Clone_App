@@ -1,9 +1,11 @@
 import { Box, Stack } from "@mui/system";
 import { VideoCard, ChannelCard} from "./";
+import { SkeletonVid } from "./SkeletonVid";
 
 const Videos = ({ videos, direction }) => {
-
-  if(!videos?.length) return "Loading...";
+  
+  // SKELETON for loading
+  if(!videos?.length) return (<SkeletonVid direction={direction}/>)
 
   return (
     <Stack direction={ direction || "row" } flexWrap="wrap" justifyContent="center" gap={2}>
