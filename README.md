@@ -108,6 +108,10 @@ git clone https://github.com/Sky-De/Youtube_Clone_App
 # Change directory
 cd your-repo-name
 
+# Add .env variables
+check .env.example
+
+
 # Install dependencies
 npm install
 
