@@ -1,27 +1,42 @@
-# 📺 ReactJS YouTube App - Your Personal Video Hub! 🎥
+# ReactJS YouTube App - Your Personal Video Hub! 🎥
 
 Feel free to give it a start 🌟
 
 ## Table of Contents
 
 - [Tech Stack](#tech-stack)
+- [Features](#features)
 - [Demo](#demo)
-- [Screenshots](#screenshots)
+- [Preview](#preview)
 - [About](#about)
 - [Installation](#installation)
 - [Contact](#contact)
 
+![line]
 
 ## Tech Stack
+![Static Badge](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![Static Badge](https://img.shields.io/badge/Create%2FReact%2FApp-black?style=for-the-badge&logo=react)
+![Static Badge](https://img.shields.io/badge/Rapid%2Fapi-black?style=for-the-badge&logo=rapid)
+![Static Badge](https://img.shields.io/badge/MUI-black?style=for-the-badge&logo=mui)
+![Static Badge](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3)
+![Static Badge](https://img.shields.io/badge/Create%2FReact%2FApp-black?style=for-the-badge&logo=react)
+![Static Badge](https://img.shields.io/badge/.env-black?style=for-the-badge&logo=.env)
 
-- ⚛️ React.js 
-- 🔄 Functional components 
-- 🌐 react-router-dom 
-- 🚀 Javascript 
-- 🎨 Pure CSS 
-- 🖌️ Material UI
-- 📱 Fully Responsive
-- 📡 Rapid API 
+
+![line]
+
+## Features
+
+- Fully responsive
+- Aside nav
+- Search functionality
+- Categorised videos
+- Skeleton loading
+- Live data fetching
+- Video page
+
+![line]
 
 ## Demo
 
@@ -31,24 +46,28 @@ Take a look at the live project deployed on Netlify
 
 ![Demo](demo.gif)
 
-## Screenshots
+![line]
 
-**DESKTOP**
-![chrome-capture-2023-8-26 (1)-min](https://github.com/Sky-De/Youtube_Clone_App/assets/79264045/251d69af-ed6f-49c4-94af-809376a076a2)
+## Preview
 
-![asdasdasd](https://github.com/Sky-De/Youtube_Clone_App/assets/79264045/d1155143-10bb-4f16-83bf-1938c4227a55)
+**DESKTOP --------------------------------------------------------------------**
 
+<img src="https://github.com/Sky-De/Youtube_Clone_App/assets/79264045/251d69af-ed6f-49c4-94af-809376a076a2" width="60%">
 
-
-
-**Mobile**
-
-![chrome-capture-2023-8-26 (2)-min](https://github.com/Sky-De/Youtube_Clone_App/assets/79264045/6ebe35c4-5e04-4bbc-baec-ae45817fc38d)
-
-![321321123](https://github.com/Sky-De/Youtube_Clone_App/assets/79264045/59d11055-c8bd-4c76-88ee-a145af4da33f)
+<img src="https://github.com/Sky-De/Youtube_Clone_App/assets/79264045/d1155143-10bb-4f16-83bf-1938c4227a55" width="60%">
 
 
 
+
+**Mobile ------------------------------------------------------------------------------**
+
+<img src="https://github.com/Sky-De/Youtube_Clone_App/assets/79264045/6ebe35c4-5e04-4bbc-baec-ae45817fc38d" width="300">
+
+<img src="https://github.com/Sky-De/Youtube_Clone_App/assets/79264045/59d11055-c8bd-4c76-88ee-a145af4da33f" width="300">
+
+
+
+![line]
 
 ## About
 
@@ -76,6 +95,8 @@ Ready to embark on a video voyage? Clone this repository, follow the simple setu
 
 🍿 Grab your popcorn and start streaming. Your next favorite video is just a click away! 🍿
 
+![line]
+
 ## Installation
 
 Provided step-by-step instructions on how to install and run this project locally.
@@ -93,8 +114,9 @@ npm install
 # Run the project
 npm run start
 ```
+![line]
 
-
+[line]: https://user-images.githubusercontent.com/75939390/137615281-3a875960-92cc-407f-97fe-fd2319bdb252.png
 ## Contact
 
 **skyDe**
